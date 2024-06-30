@@ -1,4 +1,4 @@
-# Google Cybersecurity and Security+ Dual Credential
+<h1>Google Cybersecurity and Security+ Dual Credential <a href="https://www.credly.com/badges/2fbda934-c433-4470-b723-2c543d47299e/public_url">Certification</a> </h1>
 
 ## Description
 
