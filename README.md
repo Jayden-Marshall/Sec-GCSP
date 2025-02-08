@@ -1,6 +1,6 @@
 # 🛡️ Google Cybersecurity & CompTIA Security+ Dual Certification  
 [Link To Badge](https://www.credly.com/badges/2fbda934-c433-4470-b723-2c543d47299e/public_url)
- ![google-cybersecurity-certificate-comptia-security-d](https://github.com/user-attachments/assets/c8044792-afae-488f-8e44-b096f30f5018)
+![google-cybersecurity-certificate-comptia-security-d](https://github.com/user-attachments/assets/c8044792-afae-488f-8e44-b096f30f5018)
 
 
 ## 🚀 Overview  
